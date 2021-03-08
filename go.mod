@@ -1,4 +1,4 @@
-module concurrent-res
+module github.com/AkaAny/go_concurrent_res
 
 go 1.16
 
